@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Red Square",
+        "category": "Square",
+        "city": "Moscow",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "region": "Moscow Oblast",
+        "coordinates": {
+            "longitude": 37.617037,
+            "latitude": 55.749966
+        },
+        "description": "Is one of the oldest and largest squares in Moscow, Russia. It is located in Moscow's historic centre, in the eastern walls of the Kremlin. It is the city's most prominent landmark, with famous buildings such as Saint Basil's Cathedral, Lenin's Mausoleum and the GUM department store. It has been a UNESCO World Heritage Site since 1990. Red Square has been the scene of executions, demonstrations, riots, parades, and speeches. Almost 73,000 square metres (800,000 square feet), it lies directly east of the Kremlin and north of the Moskva River. A moat that separated the square from the Kremlin was paved over in 1812.",
+        "imageName": "redsquare"
+    },
+    {
+        "name": "Palace Square",
+        "category": "Square",
+        "city": "Saint Petersburg",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "region": "Northwestern Russia",
+        "coordinates": {
+            "longitude": 30.308611,
+            "latitude": 59.937500
+        },
+        "description": "Dvortsovaya Ploshchad connecting Nevsky Prospekt with Palace Bridge leading to Vasilievsky Island, is the central city square of St Petersburg and of the former Russian Empire. Many significant events took place there, including the Bloody Sunday massacre and parts of the October Revolution of 1917. Between 1918 and 1944, it was known as Uritsky Square, in memory of the assassinated leader of the city's Cheka branch, Moisei Uritsky. The earliest and most celebrated building on the square, the Baroque white-and-turquoise Winter Palace (as re-built between 1754 and 1762) of the Russian tsars, gives the square its name. Although the adjacent buildings are designed in the Neoclassical style, they perfectly match the palace in their scale, rhythm, and monumentality. The opposite, southern side of the square was designed in the shape of an arc by George von Velten in the late 18th century. These plans came to fruition half a century later, when Alexander I of Russia (reigned 1801–1825) envisaged the square as a vast monument to the 1812–1814 Russian victories over Napoleon and commissioned Carlo Rossi to design the bow-shaped Empire-style Building of the General Staff (1819–1829), which centers on a double triumphal arch crowned with a Roman quadriga. In the centre of the square stands the Alexander Column (1830–1834), designed by Auguste de Montferrand. This red granite column (the tallest of its kind in the world) is 47.5 metres high and weighs some 500 tons. It is set so well that it requires no attachment to the base. The eastern side of the square comprises Alexander Brullov's building of the Guards Corps Headquarters (1837–1843). The western side, however, opens towards Admiralty Square, thus making the Palace Square a vital part of the grand suite of St Petersburg squares.",
+        "imageName": "palacesquare"
+    },
+    {
+        "name": "Kazan Kremlin",
+        "category": "Citadel",
+        "city": "Kazan",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "region": "European Russia",
+        "coordinates": {
+            "longitude": 49.1221,
+            "latitude": 55.7887
+        },
+        "description": "The Kazan Kremlin is the chief historic citadel of Russia, situated in the city of Kazan. It was built at the behest of Ivan the Terrible on the ruins of the former castle of Kazan khans. It was declared a World Heritage Site in 2000.",
+        "imageName": "kazankremlin"
+    },
+    {
+        "name": "Lake Baikal",
+        "category": "Lake",
+        "city": "Irkutsk",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "region": "Siberia",
+        "coordinates": {
+            "longitude": 108.000000,
+            "latitude": 53.500000
+        },
+        "description": "Is the deepest rift lake in the world. It is situated in southern Siberia, Russia between the federal subjects of Irkutsk Oblast to the northwest and the Republic of Buryatia to the southeast. At 31,722 km2 (12,248 sq mi)—slightly larger than Belgium—Lake Baikal is the world's seventh-largest lake by surface area, as well as the second largest lake in Eurasia after the Caspian Sea. However, because it is also the deepest lake, with a maximum depth of 1,642 metres (5,387 feet; 898 fathoms), Lake Baikal is the world's largest freshwater lake by volume, containing 23,615.39 km3 (5,670 cu mi) of water or 22–23% of the world's fresh surface water, more than all of the North American Great Lakes combined. It is also the world's oldest lake at 25–30 million years, and among the clearest. Lake Baikal is home to thousands of species of plants and animals, many of them endemic to the region. It is also home to Buryat tribes, who raise goats, camels, cattle, sheep, and horses on the eastern side of the lake, where the mean temperature varies from a winter minimum of −19 °C (−2 °F) to a summer maximum of 14 °C (57 °F). The region to the east of Lake Baikal is referred to as Transbaikalia or as the Transbaikal, and the loosely defined region around the lake itself is sometimes known as Baikalia. UNESCO declared Baikal a World Heritage Site in 1996.",
+        "imageName": "lakebaikal"
+    },
+    {
+        "name": "Mamayev Kurgan",
+        "category": "Memorial",
+        "city": "Volgograd",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "region": "Volgograd Oblast",
+        "coordinates": {
+            "longitude": 44.536788,
+            "latitude": 48.742269
+        },
+        "description": "Is a dominant height overlooking the city of Volgograd (formerly Stalingrad) in Southern Russia. The name in Russian means \"tumulus of Mamai\". The formation is dominated by a memorial complex commemorating the Battle of Stalingrad (August 1942 to February 1943). The battle, a hard-fought Soviet victory over Axis forces on the Eastern Front of World War II, turned into one of the bloodiest battles in human history. At the time of its installation in 1967 the statue, named The Motherland Calls, formed the largest free-standing sculpture in the world.",
+        "imageName": "mamayevkurgan"
+    },
+    {
+        "name": "Peterhof",
+        "category": "Palace",
+        "city": "Saint Petersburg",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "region": "Northwestern Russia",
+        "coordinates": {
+            "longitude": 29.9,
+            "latitude": 59.88333
+        },
+        "description": "Is a series of palaces and gardens located in Petergof, Saint Petersburg, Russia, commissioned by Peter the Great as a direct response to the Palace of Versailles by Louis XIV of France. Originally intending it in 1709 for country habitation, Peter the Great sought to expand the property as a result of his visit to the French royal court in 1717, inspiring the nickname of \"The Russian Versailles\". The architect between 1714 and 1728 was Domenico Trezzini, and the style he employed became the foundation for the Petrine Baroque style favored throughout Saint Petersburg. Also in 1714, Jean-Baptiste Alexandre Le Blond, likely chosen due to his previous collaborations with Versailles landscaper André Le Nôtre, designed the gardens. Francesco Bartolomeo Rastrelli completed an expansion from 1747 to 1756 for Elizabeth of Russia. The palace-ensemble along with the city center is recognized as a UNESCO World Heritage Site.",
+        "imageName": "peterhof"
+    },
+    {
+        "name": "Moscow International Business Center",
+        "category": "Business Center",
+        "city": "Moscow",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": false,
+        "region": "Moscow Oblast",
+        "coordinates": {
+            "longitude": 37.53694,
+            "latitude": 55.74667
+        },
+        "description": "Ss an under-construction commercial development in Moscow, the capital of Russia. The project occupies an area of 60 hectares, and is located just east of the Third Ring Road at the western edge of the Presnensky District in the Central Administrative Okrug. Construction of the MIBC takes place on the Presnenskaya Embankment of the Moskva River, approximately 4 kilometers (2.5 mi) west of Red Square. The complex is home to the highest numbers of skyscrapers in Europe. The Government of Moscow first conceived the project in 1992, as a mixed development of office, residential, retail and entertainment facilities. An estimated 250,000 – 300,000 people will be working in, living in, or visiting the complex at any given time. By 2016, twelve of the twenty-three planned facilities of the MIBC were already built; seven buildings were under construction; and four were in the design stage.",
+        "imageName": "moscowcity"
+    },
+    {
+        "name": "Nevsky Prospect",
+        "category": "Street",
+        "city": "Saint Petersburg",
+        "id": 1008,
+        "isFeatured": true,
+        "isFavorite": false,
+        "region": "Northwestern Russia",
+        "coordinates": {
+            "longitude": 30.3528,
+            "latitude": 59.9318
+        },
+        "description": "Is a main street (high street) located in the federal city of St. Petersburg in Russia. Its name comes from the Alexander Nevsky Lavra, the monastery which stands at the eastern end of the street, and which commemorates the Russian hero Prince Saint Alexander Nevsky (1221–1263). Following his founding of Saint Petersburg in 1703, Tsar Peter I planned the course of the street as the beginning of the road to Novgorod and Moscow. The avenue runs from the Admiralty in the west to the Moscow Railway Station and, after veering slightly southwards at Vosstaniya Square, to the Alexander Nevsky Lavra.",
+        "imageName": "nevskyprospect"
+    },
+    {
+        "name": "Akhmad Kadyrov Mosque",
+        "category": "Mosque",
+        "city": "Grozny",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "region": "Chechnya",
+        "coordinates": {
+            "longitude": 45.6933,
+            "latitude": 43.3178
+        },
+        "description": "The mosque is one of the largest in Russia and is officially known as \"The Heart of Chechnya\". The mosque is named after Akhmad Kadyrov, the first president of the Republic of Chechnya and father to the current president of the Republic, Ramzan Kadyrov. The construction of the mosque was commissioned by the mayor of the Turkish city of Konya. The mosque's design includes a set of 62-metre (203 ft)-tall minarets which are based upon those of the early seventeenth century Sultan Ahmed Mosque (known also as the Blue Mosque) in Istanbul. On October 16, 2008, the mosque was officially opened in a ceremony in which Chechen leader Ramzan Kadyrov appeared and conversed with Russian Prime Minister Vladimir Putin. The mosque is located on the picturesque banks of the Sunzha River in the middle of a huge park (14 hectares) and is part of an Islamic architectural complex, which in addition to the mosque, consists of the Russian Islamic University, the Kunta-Haji, and the Spiritual Administration of Muslims of the Republic of Chechnya. The mosque design is executed in the classic Ottoman style, as exemplified in the architecture of Istanbul. The central hall of the mosque is covered with a huge dome (diameter - 16 meters, height - 32 m). The height of the four minarets is 62 meters, making them among the tallest in southern Russia. The exterior and interior walls of the mosque are built of marble and travertine, while the interior is decorated in white marble. The area of the mosque is 5000 square metres and which allows a capacity of more than 10000 people. The same number of the faithful can pray in the mosque adjacent to the summer gallery.",
+        "imageName": "akhmadkadyrovmosque"
+    },
+    {
+        "name": "Krasnodar Park",
+        "category": "Park",
+        "city": "Krasnodar",
+        "id": 1010,
+        "isFeatured": true,
+        "isFavorite": true,
+        "region": "Krasnodar Krai ",
+        "coordinates": {
+            "longitude": 38.987221,
+            "latitude": 45.039268
+        },
+        "description": "The city park, located to the northeast of Krasnodar’s center in the Prikubansky district, sits between Vostochno-Kruglikovskaya Street and Hero Vladislav Posadsky Street, right next to FC Krasnodar's stadium. Founder Sergey Galitsky provided funding for the park, which opened on September 28, 2017. It has a 22.7 hectare total area. There are more than 2,500 trees planted there, including chorisias, oaks, hornbeams, alders, bonsais, poplars, pines, tulip trees, maples, and thujas. Work on the park started in the fall of 2016. Sergey Galitsky's project is estimated to have cost 4 billion rubles, or roughly $61.8 million. Every day since it opened, thousands of residents and guests have visited the \"Krasnodar\" park.",
+        "imageName": "krasnodarpark"
+    },
+    {
+        "name": "Dagestan",
+        "category": "Republic",
+        "city": "Makhachkala",
+        "id": 1011,
+        "isFeatured": true,
+        "isFavorite": true,
+        "region": "Stavropol Krai",
+        "coordinates": {
+            "longitude": 47.512630,
+            "latitude": 42.966633
+        },
+        "description": "Is a republic of Russia situated in the North Caucasus of Eastern Europe, along the Caspian Sea. It is located north of the Greater Caucasus, and is a part of the North Caucasian Federal District. The republic is the southernmost tip of Russia, sharing land borders with the countries of Azerbaijan and Georgia to the south and southwest, the Russian republics of Chechnya and Kalmykia to the west and north, and with Stavropol Krai to the northwest. Makhachkala is the republic's capital and largest city; other major cities are Derbent, Kizlyar, Izberbash, Kaspiysk, and Buynaksk. Dagestan covers an area of 50,300 square kilometres (19,400 square miles), with a population of over 3.1 million, consisting of over 30 ethnic groups and 81 nationalities. With 14 official languages, and 12 ethnic groups each constituting more than 1% of its total population, the republic is one of Russia's most linguistically and ethnically diverse, and one of the most heterogeneous administrative divisions in the world. Most of the residents speak one of the Northeast Caucasian, or Turkic languages; however, Russian is the primary language and the lingua franca in the republic",
+        "imageName": "dagestan"
+    },
+    {
+        "name": "Putorana Plateau",
+        "category": "Plateau",
+        "city": "Norilsk",
+        "id": 1012,
+        "isFeatured": true,
+        "isFavorite": true,
+        "region": "Krasnoyarsk Krai",
+        "coordinates": {
+            "longitude": 94.15806,
+            "latitude": 69.04694
+        },
+        "description": "Putorana is a heavily dissected mountain range (plateau) in the northwest region of the Central Siberian Plateau. The plateau's northern and western edges drop precipitously with steep cliffs (800 meters or more), whereas the southern and eastern sides have gentler slopes. Mount Kamen (1,701 meters), Holokit (1,542 meters), and Kotuy (1,510 meters) are among the highest peaks on the plateau. To the north, the Putorana Plateau meets the Taimyr area. It encompasses an area of 250,000 square kilometers, which is roughly the size of the United Kingdom. The plateau is home to the Putorana Nature Reserve, a UNESCO World Heritage Site. Administratively, the plateau is located in the northwestern region of Krasnoyarsk Krai, encompassing the Taimyr Dolgan-Nenets and Evenk municipal districts. The nearest significant city is Norilsk.",
+        "imageName": "putoranaplateau"
+    }
+]
