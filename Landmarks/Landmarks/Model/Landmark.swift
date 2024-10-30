@@ -16,6 +16,20 @@ struct Landmark: Hashable, Codable, Identifiable {
     let region: String
     let description: String
     var isFavorite: Bool
+    var isFeatured: Bool
+    
+    var category: Category
+    enum Category: String, CaseIterable, Codable {
+        case square = "Square"
+        case lake = "Lake"
+        case memorial = "Memorial"
+        case palace = "Palace"
+        case businessCenter = "Business Center"
+        case street = "Street"
+        case mosque = "Mosque"
+        case park = "Park"
+        case plateau = "Plateau"
+    }
     
     private var imageName: String
     var image: Image {

@@ -31,7 +31,7 @@
     },
     {
         "name": "Kazan Kremlin",
-        "category": "Citadel",
+        "category": "Mosque",
         "city": "Kazan",
         "id": 1003,
         "isFeatured": false,
@@ -151,7 +151,7 @@
     },
     {
         "name": "Dagestan",
-        "category": "Republic",
+        "category": "Plateau",
         "city": "Makhachkala",
         "id": 1011,
         "isFeatured": true,
