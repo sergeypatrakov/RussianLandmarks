@@ -16,6 +16,6 @@ Open Xcode and RUN
 <p float="left">
   <img src="./screenshoots/moscow_detail.png" width="23%" />
   <img src="./screenshoots/main_view.png" width="23%" /> 
-  <img src="./screenshoots/main_view_favorites.png" width="23%" />
-  <img src="./screenshoots/krasnodar_detail.png" width="23%" />
+  <img src="./screenshoots/featured.png" width="23%" />
+  <img src="./screenshoots/profile.png" width="23%" />
 </p>
